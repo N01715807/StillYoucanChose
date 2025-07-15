@@ -26,6 +26,18 @@ h1 {
   text-align: center;
 }
 
+#header .copy{
+color: #ffffff;
+}
+
+#typewriter {
+  margin-bottom: 1em;
+  font-size: 1.05em;
+  color: #ff4d4d;
+  text-align: center;
+  font-family: 'JetBrains Mono', monospace;
+}
+
 #rule {
   font-style: italic;
   text-align: center;
@@ -64,6 +76,5 @@ section {
 }
 
 #section2 .copy {
-  color: #666;
-  font-style: italic;
+  color: #ffffff;
 }
