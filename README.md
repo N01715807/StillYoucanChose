@@ -7,7 +7,6 @@ This project explores how probability and perception diverge, using code—not c
 ---
 
 ## 🧩 Features
-
 - Three-door Monty Hall simulation
 - Choose once, or simulate 100 / 10,000 rounds
 - Clean UI with dark mode and philosophical tone
@@ -15,9 +14,6 @@ This project explores how probability and perception diverge, using code—not c
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/N01715807/Still-You-can-Chose-.git
-cd still-you-can-choose
-open index.html  # or drag into browser
+## Notes
+- This repository is intended solely for academic and self-learning purposes.  
+- All materials are individual practice works and not for commercial use.
