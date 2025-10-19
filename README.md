@@ -1,4 +1,4 @@
-# Still, You can Choose !!!
+# Still, You can Choose - Small practice projects for learning purposes.
 
 A minimalist Monty Hall simulation built with HTML, CSS, and vanilla JavaScript.
 
